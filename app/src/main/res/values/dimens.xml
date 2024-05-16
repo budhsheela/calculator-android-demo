@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_margin_10dp">10dp</dimen>
+    <dimen name="text_size_18sp">18sp</dimen>
+    <dimen name="text_size_25sp">25sp</dimen>
+    <dimen name="activity_margin_5dp">5dp</dimen>
+    <dimen name="activity_margin_0dp">0dp</dimen>
+    <dimen name="text_size_30sp">30sp</dimen>
+    <dimen name="activity_margin_2dp">2dp</dimen>
+    <dimen name="activity_margin_1dp">1dp</dimen>
+</resources>

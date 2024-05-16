@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalcDemo</string>
+    <string name="divide">&#247;</string>
+    <string name="multiply">&#215;</string>
+    <string name="minus">&#8722;</string>
+    <string name="plus">&#43;</string>
+    <string name="equal">&#65309;</string>
+    <string name="left_arrrow">&#8592;</string>
+</resources>
