@@ -8,6 +8,7 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+
     private TextView txtResult;
     private TextView txtSeven, txtEight, txtNine, txtDivide;
     private TextView txtFour, txtFive, txtSix, txtMultiply;
